@@ -1,0 +1,3059 @@
+<UiTree>
+  <UiTreeNode>
+    <ScreenShotFile>Exceptions_Screenshots\flexwin.exe.png</ScreenShotFile>
+    <Attributes>
+      <Attribute aastate="moveable, focusable" />
+      <Attribute app="flexwin.exe" />
+      <Attribute AppPath="C:\FlexMan_Full_Production" />
+      <Attribute cls="#32770" />
+      <Attribute foreground="True" />
+      <Attribute hasFocus="False" />
+      <Attribute hwnd="0xC7034A" />
+      <Attribute isMDIChild="False" />
+      <Attribute PID="18428" />
+      <Attribute position="(755, 531) - (1181, 690)" />
+      <Attribute relativeVisibility="True" />
+      <Attribute role="window" />
+      <Attribute subsystem="win32" />
+      <Attribute text="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+      <Attribute TID="31240" />
+      <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+      <Attribute visibility="0" />
+      <Attribute wndExtStyles="0x10101" />
+      <Attribute wndStyles="2496135621" />
+    </Attributes>
+    <Children>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="unavailable, invisible" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(0, 0) - (0, 0)" />
+          <Attribute relativeVisibility="False" />
+          <Attribute role="grip" />
+          <Attribute subsystem="aa" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="1" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children />
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="invisible" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute automationid="NonClientHorizontalScrollBar" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(0, 0) - (0, 0)" />
+          <Attribute relativeVisibility="False" />
+          <Attribute role="scroll bar" />
+          <Attribute subsystem="aa" />
+          <Attribute text="0" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="1" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="DownButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Column right" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="DownPageButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Page right" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="ScrollbarThumb" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="indicator" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Position" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="UpPageButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Page left" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="UpButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Column left" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+        </Children>
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="invisible" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute automationid="NonClientVerticalScrollBar" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(0, 0) - (0, 0)" />
+          <Attribute relativeVisibility="False" />
+          <Attribute role="scroll bar" />
+          <Attribute subsystem="aa" />
+          <Attribute text="0" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="1" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="DownButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Line down" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="DownPageButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Page down" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="ScrollbarThumb" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="indicator" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Position" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="UpPageButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Page up" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute automationid="UpButton" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Line up" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+        </Children>
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="focusable" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(763, 562) - (1173, 682)" />
+          <Attribute relativeVisibility="True" />
+          <Attribute role="dialog" />
+          <Attribute subsystem="aa" />
+          <Attribute text="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="0" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+              <Attribute aastate="focusable" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="Static" />
+              <Attribute ctrlid="65535" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0x2E06E0" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(825, 588) - (1145, 616)" />
+              <Attribute relativeVisibility="True" />
+              <Attribute role="window" />
+              <Attribute subsystem="aa" />
+              <Attribute text="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+              <Attribute TID="31240" />
+              <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+              <Attribute visibility="0" />
+              <Attribute wndExtStyles="0x4" />
+              <Attribute wndStyles="0x50022080" />
+            </Attributes>
+            <Children>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="unavailable, invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="grip" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientHorizontalScrollBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientVerticalScrollBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="read only" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(825, 588) - (1145, 616)" />
+                  <Attribute relativeVisibility="True" />
+                  <Attribute role="text" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="0" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Application" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="title bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Close" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Context help" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Maximize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Minimize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="65535" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2E06E0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="IME" />
+                      <Attribute TID="31240" />
+                      <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50022080" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="65535" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2E06E0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="System" />
+                  <Attribute TID="31240" />
+                  <Attribute title="New Duplicates have been found since the data has changed. Do you want to view the duplicates before saving the claim?" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50022080" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+            </Children>
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="focusable" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="Static" />
+              <Attribute ctrlid="20" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0x2D05D4" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(784, 585) - (816, 617)" />
+              <Attribute relativeVisibility="True" />
+              <Attribute role="window" />
+              <Attribute subsystem="aa" />
+              <Attribute TID="31240" />
+              <Attribute visibility="0" />
+              <Attribute wndExtStyles="0x4" />
+              <Attribute wndStyles="0x50020003" />
+            </Attributes>
+            <Children>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="unavailable, invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="grip" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientHorizontalScrollBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column right" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page right" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page left" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column left" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientVerticalScrollBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line down" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page down" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page up" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line up" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="read only" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(784, 585) - (816, 617)" />
+                  <Attribute relativeVisibility="True" />
+                  <Attribute role="graphic" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="0" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Application" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="title bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Close" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Context help" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Maximize" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Minimize" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Static" />
+                      <Attribute ctrlid="20" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x2D05D4" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="IME" />
+                      <Attribute TID="31240" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50020003" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Static" />
+                  <Attribute ctrlid="20" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x2D05D4" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="System" />
+                  <Attribute TID="31240" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50020003" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+            </Children>
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aaname="No" />
+              <Attribute aastate="focusable" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="Button" />
+              <Attribute ctrlid="7" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0x5A04B0" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(1083, 650) - (1158, 673)" />
+              <Attribute relativeVisibility="True" />
+              <Attribute role="window" />
+              <Attribute subsystem="aa" />
+              <Attribute text="No" />
+              <Attribute TID="31240" />
+              <Attribute title="&amp;No" />
+              <Attribute visibility="0" />
+              <Attribute wndExtStyles="0x4" />
+              <Attribute wndStyles="0x50010000" />
+            </Attributes>
+            <Children>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="unavailable, invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="grip" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientHorizontalScrollBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientVerticalScrollBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="focusable" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(1083, 650) - (1158, 673)" />
+                  <Attribute relativeVisibility="True" />
+                  <Attribute role="push button" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="No" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="0" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Application" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="title bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="No" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Close" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Context help" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Maximize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Minimize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="No" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="7" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0x5A04B0" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="IME" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;No" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50010000" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="No" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="7" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0x5A04B0" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="System" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;No" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50010000" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+            </Children>
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aaname="Yes" />
+              <Attribute aastate="focused, focusable" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="Button" />
+              <Attribute ctrlid="6" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="True" />
+              <Attribute hwnd="0xCC0496" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(1000, 650) - (1075, 673)" />
+              <Attribute relativeVisibility="True" />
+              <Attribute role="window" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Yes" />
+              <Attribute TID="31240" />
+              <Attribute title="&amp;Yes" />
+              <Attribute visibility="0" />
+              <Attribute wndExtStyles="0x4" />
+              <Attribute wndStyles="0x50030001" />
+            </Attributes>
+            <Children>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="unavailable, invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="grip" />
+                  <Attribute subsystem="aa" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientHorizontalScrollBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page right" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Column left" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="NonClientVerticalScrollBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="scroll bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="0" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="DownPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page down" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="ScrollbarThumb" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="indicator" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Position" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpPageButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Page up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="UpButton" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Line up" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="focused, default, focusable" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="True" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(1000, 650) - (1075, 673)" />
+                  <Attribute relativeVisibility="True" />
+                  <Attribute role="push button" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Yes" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="0" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Application" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="title bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="Yes" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Close" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Context help" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Maximize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Minimize" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute aaname="Yes" />
+                      <Attribute aastate="invisible" />
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute cls="Button" />
+                      <Attribute ctrlid="6" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xCC0496" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="push button" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="IME" />
+                      <Attribute TID="31240" />
+                      <Attribute title="&amp;Yes" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x4" />
+                      <Attribute wndStyles="0x50030001" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aaname="Yes" />
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute automationid="MenuBar" />
+                  <Attribute cls="Button" />
+                  <Attribute ctrlid="6" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xCC0496" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="menu bar" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="System" />
+                  <Attribute TID="31240" />
+                  <Attribute title="&amp;Yes" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x4" />
+                  <Attribute wndStyles="0x50030001" />
+                </Attributes>
+                <Children />
+              </UiTreeNode>
+            </Children>
+          </UiTreeNode>
+        </Children>
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="invisible" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute automationid="MenuBar" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(0, 0) - (0, 0)" />
+          <Attribute relativeVisibility="False" />
+          <Attribute role="menu bar" />
+          <Attribute subsystem="aa" />
+          <Attribute text="Application" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="1" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children />
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="focusable" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(763, 534) - (1173, 562)" />
+          <Attribute relativeVisibility="True" />
+          <Attribute role="title bar" />
+          <Attribute subsystem="aa" />
+          <Attribute text="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="0" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="unavailable" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(1140, 532) - (1174, 562)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Close" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="0" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Context help" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Maximize" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="Minimize" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="push button" />
+              <Attribute subsystem="aa" />
+              <Attribute text="IME" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children />
+          </UiTreeNode>
+        </Children>
+      </UiTreeNode>
+      <UiTreeNode>
+        <Attributes>
+          <Attribute aastate="invisible, focusable" />
+          <Attribute app="flexwin.exe" />
+          <Attribute AppPath="C:\FlexMan_Full_Production" />
+          <Attribute automationid="MenuBar" />
+          <Attribute cls="#32770" />
+          <Attribute foreground="True" />
+          <Attribute hasFocus="False" />
+          <Attribute hwnd="0xC7034A" />
+          <Attribute isMDIChild="False" />
+          <Attribute PID="18428" />
+          <Attribute position="(0, 0) - (0, 0)" />
+          <Attribute relativeVisibility="False" />
+          <Attribute role="menu bar" />
+          <Attribute subsystem="aa" />
+          <Attribute text="System" />
+          <Attribute TID="31240" />
+          <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+          <Attribute visibility="1" />
+          <Attribute wndExtStyles="0x10101" />
+          <Attribute wndStyles="2496135621" />
+        </Attributes>
+        <Children>
+          <UiTreeNode>
+            <Attributes>
+              <Attribute aastate="invisible, focusable, has popup" />
+              <Attribute app="flexwin.exe" />
+              <Attribute AppPath="C:\FlexMan_Full_Production" />
+              <Attribute cls="#32770" />
+              <Attribute foreground="True" />
+              <Attribute hasFocus="False" />
+              <Attribute hwnd="0xC7034A" />
+              <Attribute isMDIChild="False" />
+              <Attribute PID="18428" />
+              <Attribute position="(0, 0) - (0, 0)" />
+              <Attribute relativeVisibility="False" />
+              <Attribute role="menu item" />
+              <Attribute subsystem="aa" />
+              <Attribute text="System" />
+              <Attribute TID="31240" />
+              <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+              <Attribute visibility="1" />
+              <Attribute wndExtStyles="0x10101" />
+              <Attribute wndStyles="2496135621" />
+            </Attributes>
+            <Children>
+              <UiTreeNode>
+                <Attributes>
+                  <Attribute aastate="invisible" />
+                  <Attribute app="flexwin.exe" />
+                  <Attribute AppPath="C:\FlexMan_Full_Production" />
+                  <Attribute cls="#32770" />
+                  <Attribute foreground="True" />
+                  <Attribute hasFocus="False" />
+                  <Attribute hwnd="0xC7034A" />
+                  <Attribute isMDIChild="False" />
+                  <Attribute PID="18428" />
+                  <Attribute position="(0, 0) - (0, 0)" />
+                  <Attribute relativeVisibility="False" />
+                  <Attribute role="popup menu" />
+                  <Attribute subsystem="aa" />
+                  <Attribute text="System" />
+                  <Attribute TID="31240" />
+                  <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+                  <Attribute visibility="1" />
+                  <Attribute wndExtStyles="0x10101" />
+                  <Attribute wndStyles="2496135621" />
+                </Attributes>
+                <Children>
+                  <UiTreeNode>
+                    <Attributes>
+                      <Attribute app="flexwin.exe" />
+                      <Attribute AppPath="C:\FlexMan_Full_Production" />
+                      <Attribute automationid="61456" />
+                      <Attribute cls="#32770" />
+                      <Attribute foreground="True" />
+                      <Attribute hasFocus="False" />
+                      <Attribute hwnd="0xC7034A" />
+                      <Attribute isMDIChild="False" />
+                      <Attribute PID="18428" />
+                      <Attribute position="(0, 0) - (0, 0)" />
+                      <Attribute relativeVisibility="False" />
+                      <Attribute role="menu item" />
+                      <Attribute subsystem="aa" />
+                      <Attribute text="Move" />
+                      <Attribute TID="31240" />
+                      <Attribute title="Claim Entry - Kornhoff, Raymond - A&amp;M" />
+                      <Attribute visibility="1" />
+                      <Attribute wndExtStyles="0x10101" />
+                      <Attribute wndStyles="2496135621" />
+                    </Attributes>
+                    <Children />
+                  </UiTreeNode>
+                </Children>
+              </UiTreeNode>
+            </Children>
+          </UiTreeNode>
+        </Children>
+      </UiTreeNode>
+    </Children>
+  </UiTreeNode>
+</UiTree>
